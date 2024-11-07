@@ -2,7 +2,7 @@
 
 📌 VS Code as the preferred code editor.
 
-📌 JDK for to run the app successfully
+📌 JDK (preferred version 23) to run the app successfully
 
 📌 Prettier for code formatting.
 
