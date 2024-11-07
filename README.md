@@ -29,4 +29,8 @@ Now you are good to go!! The App will pop up in the top left corner! 🚀✨
 ## 🧑‍💻 Demo
 
 
+## 💬 Comments
 
+1. This app was built following different design patterns like singleton class and builder class.
+2. Different validation checks are kept on the expression to be evaluted.
+3. I would highly encourage the users to point out edge cases that I may have missed out in the validation check by opening a fresh PR each time.
