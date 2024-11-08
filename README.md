@@ -29,6 +29,10 @@ Now you are good to go!! The App will pop up in the top left corner! 🚀✨
 ## 🧑‍💻 Demo
 
 
+https://github.com/user-attachments/assets/9c3acf2f-87dc-439c-8d6f-e8f3ae971fa5
+
+
+
 ## 💬 Comments
 
 1. This app was built following different design patterns like singleton class and builder class.
